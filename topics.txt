@@ -1,0 +1,30 @@
+    • Time Series Analysis
+        ◦ stationary
+        ◦ trend and seasonality decomposition
+        ◦ autocorrelation
+        ◦ ARIMA/SARIMA modeling
+        ◦ residual diagnostics
+        ◦ forecasting techniques
+    • Statistical Analysis
+        ◦ descriptive and inferential statistics
+        ◦ hypothesis testing
+        ◦ regression modeling
+        ◦ p-value interpretation
+        ◦ validation of statistical assumptions
+    • Probability Models
+        ◦ discrete and continuous distributions
+        ◦ independence and conditional probability
+        ◦ Markov and similar processes
+        ◦ Bayes Theorem
+        ◦ Stochaistic modeling using parameterized
+            ▪ Binomial
+            ▪ Poisson
+            ▪ Gaussian
+    • expectations
+        ◦ expected value and variance
+        ◦ covariance and correlation
+        ◦ law of total expectation
+        ◦ applications in
+            ▪ regression
+            ▪ risk
+            ▪ decision analysis
